@@ -39,3 +39,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melquisedeque-magalhaes&" alt="melquisedeque-magalhaes" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melquisedeque-magalhaes&hide=java&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=melquisedeque-magalhaes)](https://github.com/anuraghazra/github-readme-stats)
