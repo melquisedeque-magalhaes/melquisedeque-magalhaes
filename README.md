@@ -36,7 +36,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=melquisedeque-magalhaes&show_icons=true&locale=en&layout=compact" alt="melquisedeque-magalhaes" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=melquisedeque-magalhaes&show_icons=true&locale=en" alt="melquisedeque-magalhaes" /></p>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=melquisedeque-magalhaes)](https://github.com/anuraghazra/github-readme-stats)
 
