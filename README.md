@@ -38,4 +38,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=melquisedeque-magalhaes&show_icons=true&locale=en" alt="melquisedeque-magalhaes" /></p>
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=melquisedeque-magalhaes)](https://github.com/anuraghazra/github-readme-stats)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melquisedeque-magalhaes&" alt="melquisedeque-magalhaes" /></p>
