@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/melqui-sodre/](https://www.linkedin.com/in/melqui-sodre/)
 
-- 💬 Ask me about **React, NodeJs, React Native**
+- 💬 Ask me about **ReactJs, NodeJs, React Native, NextJS, MicroFrontends**
 
 - 📫 How to reach me **melqui.sodre15@gmail.com**
 
