@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melquisedeque-magalhaes" alt="melquisedeque-magalhaes" /></a> </p>
 
-- 🔭 I’m currently working on [GoBarber Mobile](https://github.com/melquisedeque-magalhaes/gobarberapp)
+- 🔭 I’m currently working on [Next E-commerce](https://github.com/melquisedeque-magalhaes/next-ecommerce)
 
 - 🌱 I’m currently learning **Typescript, next Js, specialized in React native and Reactjs with nodejs**
 
-- 👯 I’m looking to collaborate on [GoBarber Web](https://github.com/melquisedeque-magalhaes/gobarber-web)
+- 👯 I’m looking to collaborate on [Next E-commerce](https://github.com/melquisedeque-magalhaes/next-ecommerce)
 
-- 🤝 I’m looking for help with [GoBarber Backend](https://github.com/melquisedeque-magalhaes/gobarber_backend)
+- 🤝 I’m looking for help with [Next E-commerce](https://github.com/melquisedeque-magalhaes/next-ecommerce)
 
 - 👨‍💻 All of my projects are available at [https://github.com/melquisedeque-magalhaes?tab=repositories](https://github.com/melquisedeque-magalhaes?tab=repositories)
 
